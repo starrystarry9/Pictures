@@ -1,2 +1,2 @@
-# Picutures
-Pictures
+# Pictures
+Just a PicBed for PicGo
